@@ -1,5 +1,5 @@
 # Class Roster Project
+<div> 
+  contributed by David Rios 
+</div>
 
-Wednesday
-
-Contributed to by Jane Doe, Code Ninja
